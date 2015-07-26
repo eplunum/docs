@@ -6,7 +6,6 @@ Copyright &copy; 2015. Dan Mascenik. All Rights Reserved.
 
 * [Getting Started](getting-started.md)
   * Prerequisites
-  * Install Docker
   * Using the Command Line Client
   * Hello World
   * Sample Apps
